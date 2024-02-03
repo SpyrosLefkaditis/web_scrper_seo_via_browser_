@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-url = "https://www.siteguru.co/free-seo-tools/onpage-seo-check?url=https%3A%2F%2Fwww.google.com%2F"
+url = "your url"
 
 # Set up the browser (make sure you have the appropriate webdriver installed)
 driver = webdriver.Chrome()
